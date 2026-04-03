@@ -15,6 +15,8 @@ PRÒXIMAMENT:
 - Editar documents ja creats. Uy I NO EM PUC DEIXAR K ES GUARDI AL DAMUNT DE L'ORIGINAL sabeu quin caos seria per a la meva àvia veure 4 documents amb el mateix nom, però un número al final (o canvis de data), uy no. Ella no entendria res, obriria un enterior i s'estressaria pq diria k no se li han guardat els canvis, k ho ha perdut tot... (I si, ficar un botó k et pregunti amb quin nom o vols guardar o si vols substituir l'altre, és massa complicat), (Coses a tenir en compte, en un origen, si guardeves amb un nom k ja existia es substituia, però no volem això exactament, pq la data canvia, per tant el nom ja no coincidiria, per ni es substituiria, aaaaaaaa). 
 - El carrusel de imatges per a la finestra de ha de simular ser l'escriptori... cosa k no puc fer amb textual. I no ho puc fer amb un altre, pq sinó perdo els percentatges de les caixes... fuck. I està en python, no tinc tantes opcions...
 
+I NO, LA IA NO ÉS COPILOT, COPILOT NO FUNCIONA...
+
 Licencia
 Este proyecto está bajo la licencia CC BY-NC 4.0. Esto significa que puedes usar y modificar el código siempre que:
 Me menciones como el autor original.
