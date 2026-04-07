@@ -18,11 +18,11 @@ Hi havia dos pestanyes més, però us recordo que estem a simplified, sob. Ja le
 
 //CONSELL: si tens la terminal nova i l'antiga, crea una drecera i especifica-li k sobri amb la nova (es veu més gran i les icones) desp a destinació escriu al davant:
 
-    [...] wt.exe [...]
+    wt.exe
 
 Exemple:
 
-    [...] wt.exe C:\Users\annaa\Dropbox\The_Archive\The_Archive.exe[...]
+    wt.exe C:\Users\annaa\Dropbox\The_Archive\The_Archive.exe
     
 PRÒXIMAMENT:
 
