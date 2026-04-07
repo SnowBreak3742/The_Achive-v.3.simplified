@@ -17,9 +17,12 @@ Sortida, tornes a la pantalla de càrrega.
 Hi havia dos pestanyes més, però us recordo que estem a simplified, sob. Ja les recuperaré... és k configuració era una pestanya molt bonica, et deia k no podies editar res k no tenies privilegis, i et deia puto (en broma, obvi) i desp hi havia un botó d'ignorar, si li donaves i havia un self.notify que et deia que seguies sent puto (jeje) i podies canviar de mode fosc a clar... ara només existeix el clar.
 
 //CONSELL: si tens la terminal nova i l'antiga, crea una drecera i especifica-li k sobri amb la nova (es veu més gran i les icones) desp a destinació escriu al davant:
+
     [...] wt.exe [...]
+
 Exemple:
-    [...] wt.exe C:\Users\annaa\Dropbox\The_Archive\The_Archive.exe [...]
+
+    [...] wt.exe C:\Users\annaa\Dropbox\The_Archive\The_Archive.exe[...]
     
 PRÒXIMAMENT:
 
